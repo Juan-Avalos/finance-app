@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn AI Prediction Practice
+          Learn AI Prediction Practice. Code
         </a>
       </header>
     </div>
